@@ -1,5 +1,5 @@
-# Aug 26: intermediate in redlands ca
+# intermediate class
+## august 26 2015
+### Redlands, ca
 
-* testing
-
-
+* Testing
